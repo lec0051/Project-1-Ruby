@@ -1,0 +1,23 @@
+Last login: Thu Sep 13 20:04:16 on ttys000
+Laurens-MacBook-Air-2:~ laurencravey$ cd Downloads
+Laurens-MacBook-Air-2:Downloads laurencravey$ ruby main.rb
+
+Current List: ["Captain America", "Iron Man"]
+
+New Lookup: The Post
+
+Current List: ["the post", "Captain America", "Iron Man"]
+
+New Lookup: mean girls
+
+Current List: ["mean girls", "the post", "Captain America", "Iron Man"]
+
+New Lookup: finding nemo
+
+Current List: ["finding nemo", "mean girls", "the post", "Captain America", "Iron Man"]
+
+New Lookup: 
+
+
+
+
